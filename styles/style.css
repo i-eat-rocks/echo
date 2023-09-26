@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+  }
+  body{
+    background-color: var(--bs-dark);
+  }
+  .card{
+    /* border: 2px solid; */
+    margin: 9px 0px;
+
+  }
+  .card-img-top{
+    padding: 4px;
+  }
